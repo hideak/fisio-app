@@ -13,6 +13,8 @@
   },
   "material-icon-theme.folders.associations": {
     "app/app": "",
+    "pages/app": "",
     "home": ""
   },
+  "workbench.browser.openLocalhostLinks": false,
 }
