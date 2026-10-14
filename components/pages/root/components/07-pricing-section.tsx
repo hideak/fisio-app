@@ -63,7 +63,7 @@ export function PricingSection() {
 
             <div className="pt-3 border-t border-border/60 text-center">
               <a
-                href="https://wa.me/5531986959594?text=Ol%C3%A1%2C%20Dra.%20Shan!%20Estou%20interessado(a)%20em%20uma%20Sess%C3%A3o%20Avulsa%20de%20fisioterapia."
+                href="https://wa.me/5519989175925?text=Ol%C3%A1%2C%20Dra.%20Shan!%20Estou%20interessado(a)%20em%20uma%20Sess%C3%A3o%20Avulsa%20de%20fisioterapia."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-xs font-semibold text-muted-foreground hover:text-primary transition-colors inline-flex items-center gap-1 py-1"
@@ -133,7 +133,7 @@ export function PricingSection() {
 
             <div className="pt-3 border-t border-border/60">
               <a
-                href="https://wa.me/5531986959594?text=Ol%C3%A1%2C%20Dra.%20Shan!%20Estou%20interessado(a)%20no%20Plano%20de%208%20Sess%C3%B5es."
+                href="https://wa.me/5519989175925?text=Ol%C3%A1%2C%20Dra.%20Shan!%20Estou%20interessado(a)%20no%20Plano%20de%208%20Sess%C3%B5es."
                 target="_blank"
                 rel="noopener noreferrer"
                 className={buttonVariants({ size: "default", className: "w-full justify-center font-bold shadow-xs gap-1.5" })}
@@ -203,7 +203,7 @@ export function PricingSection() {
 
             <div className="pt-3 border-t border-border/60 text-center">
               <a
-                href="https://wa.me/5531986959594?text=Ol%C3%A1%2C%20Dra.%20Shan!%20Estou%20interessado(a)%20no%20Plano%20de%2010%20Sess%C3%B5es."
+                href="https://wa.me/5519989175925?text=Ol%C3%A1%2C%20Dra.%20Shan!%20Estou%20interessado(a)%20no%20Plano%20de%2010%20Sess%C3%B5es."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-xs font-semibold text-muted-foreground hover:text-primary transition-colors inline-flex items-center gap-1 py-1"

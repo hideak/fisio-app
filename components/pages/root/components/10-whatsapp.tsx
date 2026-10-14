@@ -10,7 +10,7 @@ export function WhatsApp() {
 
       {/* Floating Action Button */}
       <a
-        href="https://wa.me/5531986959594?text=Ol%C3%A1%2C%20Dra.%20Shan!%20Vim%20pelo%20site%20e%20gostaria%20de%20agendar%20uma%20consulta."
+        href="https://wa.me/5519989175925?text=Ol%C3%A1%2C%20Dra.%20Shan!%20Vim%20pelo%20site%20e%20gostaria%20de%20agendar%20uma%20consulta."
         target="_blank"
         rel="noopener noreferrer"
         aria-label="Abrir conversa no WhatsApp"

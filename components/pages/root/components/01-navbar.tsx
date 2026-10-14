@@ -14,7 +14,7 @@ const navLinks = [
   { href: "/contato", label: "Contato" },
 ];
 
-const whatsappUrl = "https://wa.me/5531986959594?text=Ol%C3%A1%2C%20Dra.%20Shan!%20Gostaria%20de%20agendar%20uma%20consulta%20de%20fisioterapia%20domiciliar.";
+const whatsappUrl = "https://wa.me/5519989175925?text=Ol%C3%A1%2C%20Dra.%20Shan!%20Gostaria%20de%20agendar%20uma%20consulta%20de%20fisioterapia%20domiciliar.";
 
 export function Navbar() {
   const [isOpen, setIsOpen] = useState(false);

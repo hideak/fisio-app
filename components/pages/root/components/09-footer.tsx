@@ -63,12 +63,12 @@ export function Footer() {
               <p>
                 <strong className="text-foreground">WhatsApp:</strong>{" "}
                 <a
-                  href="https://wa.me/5531986959594?text=Ol%C3%A1%2C%20Dra.%20Shan!%20Gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20atendimento%20de%20fisioterapia%20domiciliar."
+                  href="https://wa.me/5519989175925?text=Ol%C3%A1%2C%20Dra.%20Shan!%20Gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20atendimento%20de%20fisioterapia%20domiciliar."
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-primary transition-colors"
                 >
-                  (31) 98695-9594
+                  (19) 98917-5925
                 </a>
               </p>
               <p>

@@ -30,7 +30,7 @@ export function ContactSection() {
       `Mensagem: ${formData.message || "Não informada"}`,
     ].join("\n");
 
-    const link = `https://wa.me/5531986959594?text=${encodeURIComponent(formattedText)}`;
+    const link = `https://wa.me/5519989175925?text=${encodeURIComponent(formattedText)}`;
     window.open(link, "_blank");
   };
 
@@ -51,7 +51,7 @@ export function ContactSection() {
         {!showForm ? (
           <div className="mx-auto grid max-w-3xl gap-5 md:grid-cols-2">
             <a
-              href="https://wa.me/5531986959594?text=Ol%C3%A1%2C%20Dra.%20Shan!%20Gostaria%20de%20agendar%20uma%20avalia%C3%A7%C3%A3o%20domiciliar."
+              href="https://wa.me/5519989175925?text=Ol%C3%A1%2C%20Dra.%20Shan!%20Gostaria%20de%20agendar%20uma%20avalia%C3%A7%C3%A3o%20domiciliar."
               target="_blank"
               rel="noopener noreferrer"
               className="landing-card flex flex-col items-center gap-4 p-6 text-center hover:bg-primary/5"
@@ -98,7 +98,6 @@ export function ContactSection() {
                       </Label>
                       <Input
                         id="name"
-                        placeholder="Ex: Maria Santos"
                         value={formData.name}
                         onChange={(e) => setFormData({ ...formData, name: e.target.value })}
                         required
@@ -112,7 +111,7 @@ export function ContactSection() {
                       </Label>
                       <Input
                         id="phone"
-                        placeholder="Ex: (31) 98888-7777"
+                        placeholder="Ex: (19) 99999-9999"
                         value={formData.phone}
                         onChange={(e) => setFormData({ ...formData, phone: e.target.value })}
                         required
